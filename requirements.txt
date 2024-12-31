@@ -1,1 +1,5 @@
 python-pptx
+yfinance
+openpyxl
+python-dotenv
+boto3
